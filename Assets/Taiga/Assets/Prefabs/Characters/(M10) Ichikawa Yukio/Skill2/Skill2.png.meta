@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 1a2f6b60501d99847b42bc275e066448
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2725567111579495942
+    second: SKill02_01
+  - first:
+      213: 1420331977680101548
+    second: SKill02_02
+  - first:
+      213: -6870580586004395000
+    second: SKill02_03
+  - first:
+      213: -4961240026359314148
+    second: SKill02_04
+  - first:
+      213: -2007733150284581673
+    second: SKill02_05
+  - first:
+      213: 6893838692333095537
+    second: SKill02_06
+  - first:
+      213: 3568532254594896854
+    second: SKill02_07
+  - first:
+      213: -187414813183231473
+    second: SKill02_08
+  - first:
+      213: -8198624655531635388
+    second: SKill02_09
+  - first:
+      213: 2391264484061251608
+    second: SKill02_10
+  - first:
+      213: 3288759014605742092
+    second: SKill02_11
+  - first:
+      213: -8881922867048392766
+    second: SKill02_12
+  - first:
+      213: -2375507258231134721
+    second: SKill02_13
+  - first:
+      213: -2752543272320496166
+    second: SKill02_14
+  - first:
+      213: -2808775566743270335
+    second: SKill02_15
+  - first:
+      213: 4844933746535268151
+    second: SKill02_16
+  - first:
+      213: -5299098538975961419
+    second: SKill02_17
+  - first:
+      213: -6703979820248482620
+    second: SKill02_18
+  - first:
+      213: 1542424038725314312
+    second: SKill02_19
+  - first:
+      213: 145776405418985308
+    second: SKill02_20
+  - first:
+      213: -6509681183280028821
+    second: SKill02_21
+  - first:
+      213: -4231131306747538413
+    second: SKill02_22
+  - first:
+      213: 6567720030150100468
+    second: SKill02_23
+  - first:
+      213: 7593663138222490358
+    second: SKill02_24
+  - first:
+      213: -6013375252283117382
+    second: SKill02_25
+  - first:
+      213: -4931727171861997578
+    second: SKill02_26
+  - first:
+      213: -3429557164002245451
+    second: SKill02_27
+  - first:
+      213: -5063992929027968586
+    second: SKill02_28
+  - first:
+      213: 1445459571909822012
+    second: SKill02_29
+  - first:
+      213: -3873888047759928841
+    second: SKill02_30
+  - first:
+      213: -4125087912004878838
+    second: SKill02_31
+  - first:
+      213: -2691323057212305477
+    second: SKill02_32
+  - first:
+      213: 704918141506043714
+    second: SKill02_33
+  - first:
+      213: -3759705464992108615
+    second: SKill02_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SKill02_01
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 252
+        width: 31
+        height: 86
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.38372093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af111d61727dc2ad0800000000000000
+      internalID: -2725567111579495942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_02
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 182
+        width: 30
+        height: 77
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca020c0986806b310800000000000000
+      internalID: 1420331977680101548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_03
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 182
+        width: 30
+        height: 77
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c4382eb5bc6a0a0800000000000000
+      internalID: -6870580586004395000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 30
+        height: 76
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1947675b72262bb0800000000000000
+      internalID: -4961240026359314148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 30
+        height: 76
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4f28556591324e0800000000000000
+      internalID: -2007733150284581673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 30
+        height: 76
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a8b5bf3c5dbaf50800000000000000
+      internalID: 6893838692333095537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 30
+        height: 76
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d317acbd29f58130800000000000000
+      internalID: 3568532254594896854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 30
+        height: 76
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a319a683b266df0800000000000000
+      internalID: -187414813183231473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_09
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 30
+        height: 76
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d07406052a83e80800000000000000
+      internalID: -8198624655531635388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 173
+        width: 30
+        height: 77
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8188a78f06a7f2120800000000000000
+      internalID: 2391264484061251608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 275
+        width: 30
+        height: 76
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00607136e404ad20800000000000000
+      internalID: 3288759014605742092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 275
+        width: 35
+        height: 76
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7592bf5321db480800000000000000
+      internalID: -8881922867048392766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 353
+        width: 38
+        height: 76
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff565cf0cb0880fd0800000000000000
+      internalID: -2375507258231134721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 433
+        width: 54
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5740741, y: 0.43589744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add02783a700dc9d0800000000000000
+      internalID: -2752543272320496166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 353
+        width: 38
+        height: 76
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c887ae0893509d0800000000000000
+      internalID: -2808775566743270335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 353
+        width: 36
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f798aa299ac3340800000000000000
+      internalID: 4844933746535268151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 275
+        width: 35
+        height: 76
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bedb8264f1d576b0800000000000000
+      internalID: -5299098538975961419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 195
+        width: 30
+        height: 78
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.42307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccb3b86fdda6f2a0800000000000000
+      internalID: -6703979820248482620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 272
+        width: 30
+        height: 79
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.4177215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807ee39bd7ac76510800000000000000
+      internalID: 1542424038725314312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 270
+        width: 40
+        height: 79
+      alignment: 9
+      pivot: {x: 0.6, y: 0.4177215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57c1ad4ed6e50200800000000000000
+      internalID: 145776405418985308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 340
+        width: 42
+        height: 89
+      alignment: 9
+      pivot: {x: 0.61904764, y: 0.37078652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63ac8d1477f8a5a0800000000000000
+      internalID: -6509681183280028821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 350
+        width: 40
+        height: 79
+      alignment: 9
+      pivot: {x: 0.6, y: 0.4177215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31457477e700845c0800000000000000
+      internalID: -4231131306747538413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 431
+        width: 45
+        height: 80
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f58055f19a352b50800000000000000
+      internalID: 6567720030150100468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 45
+        height: 80
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2cab9246c126960800000000000000
+      internalID: 7593663138222490358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 431
+        width: 45
+        height: 80
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab03a8a71133c8ca0800000000000000
+      internalID: -6013375252283117382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 431
+        width: 45
+        height: 80
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f71600444cfe8bb0800000000000000
+      internalID: -4931727171861997578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 431
+        width: 45
+        height: 80
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b400ce0ee3c760d0800000000000000
+      internalID: -3429557164002245451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 431
+        width: 45
+        height: 80
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1b230e24519b9b0800000000000000
+      internalID: -5063992929027968586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 431
+        width: 45
+        height: 80
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c368fd082dd4f0410800000000000000
+      internalID: 1445459571909822012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 431
+        width: 45
+        height: 80
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f153a5685f2d3ac0800000000000000
+      internalID: -3873888047759928841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_31
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 431
+        width: 45
+        height: 80
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ef0b1566eb0c6c0800000000000000
+      internalID: -4125087912004878838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_32
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 431
+        width: 44
+        height: 80
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfca0f40ff76aad0800000000000000
+      internalID: -2691323057212305477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_33
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 261
+        width: 32
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37931034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f323c905f58c900800000000000000
+      internalID: 704918141506043714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKill02_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 182
+        width: 31
+        height: 86
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.38372093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfec03acc7d2dbc0800000000000000
+      internalID: -3759705464992108615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

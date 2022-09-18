@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:785d32a7c7e69bd1f2318defa7bd8aab:0f0acb7424a99c4d1ccef6fbf656a77f:25d2b0801191b035d8a850ee31f856c9$
+#
+:format=40300
+:texture=Stun.png
+:size=64x128
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Nani;31;56;26;71; 0.46153846153846156;0.46478873239436624; 0;0;0;0; 4;26;0;0;0;0;71;26;71; 2;1;2;3;0;1;3
+Walk_Back8;1;57;28;70; 0.35714285714285715;0.44285714285714284; 0;0;0;0; 4;28;0;0;0;0;70;28;70; 2;1;2;3;0;1;3

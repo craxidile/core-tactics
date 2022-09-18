@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:d980b4b2d9b136480c541eb5f948467a:12153d0f60918373693d1c87d1ae7cb7:7bfaf91fb8b4bdf9bf98b464afa89c7c$
+#
+:format=40300
+:texture=MaidStand.png
+:size=64x128
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Maid Stand Back;32;52;26;75; 0.38461538461538464;0.45333333333333337; 0;0;0;0; 4;26;0;0;0;0;75;26;75; 2;1;2;3;0;1;3
+Maid Stand Front;1;54;29;73; 0.3793103448275862;0.452054794520548; 0;0;0;0; 4;29;0;0;0;0;73;29;73; 2;1;2;3;0;1;3

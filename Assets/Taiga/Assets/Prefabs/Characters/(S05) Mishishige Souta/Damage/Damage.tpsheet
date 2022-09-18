@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:9a375d3a4f8320289bc7878ea6657b8e:08b1f52a9db6d20e5fa8ba0affe71e45:9a92f9d44fc20d09ac121a68ca131531$
+#
+:format=40300
+:texture=Damage.png
+:size=128x128
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+DamageBack;1;35;48;92; 0.5208333333333334;0.4347826086956522; 0;0;0;0; 5;48;81;42;0;11;12;0;54;15;92; 3;2;0;1;2;3;0;0;3;4
+DamageFront;51;38;39;89; 0.5128205128205128;0.4157303370786517; 0;0;0;0; 5;39;53;36;0;1;10;0;76;28;89; 3;2;0;1;2;3;0;0;3;4

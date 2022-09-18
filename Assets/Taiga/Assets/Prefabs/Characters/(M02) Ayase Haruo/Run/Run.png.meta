@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: bc7aa2853db7cf54ebd221d4930c0fd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6450466723757060404
+    second: Run Front1
+  - first:
+      213: 8683183710781404853
+    second: Run Front2
+  - first:
+      213: -7871200655975583598
+    second: Run Front3
+  - first:
+      213: -6341290131151845068
+    second: Run Front4
+  - first:
+      213: 4744047214955093528
+    second: Runback1
+  - first:
+      213: 61691908396259636
+    second: Runback2
+  - first:
+      213: 8566874383782245069
+    second: Runback3
+  - first:
+      213: 8042546705293272102
+    second: Runback4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Nintendo Switch
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run Front1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 40
+        height: 79
+      alignment: 9
+      pivot: {x: 0.45, y: 0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43174092f49a48950800000000000000
+      internalID: 6450466723757060404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Front2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 5
+        width: 36
+        height: 72
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b67598549dd08870800000000000000
+      internalID: 8683183710781404853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Front3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 66
+        height: 92
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.41304347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290f0c0f4b0e3c290800000000000000
+      internalID: -7871200655975583598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Front4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 79
+        width: 58
+        height: 82
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.46341464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439010b29363ff7a0800000000000000
+      internalID: -6341290131151845068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Runback1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 95
+        width: 43
+        height: 79
+      alignment: 9
+      pivot: {x: 0.39534885, y: 0.34177214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e54159ecd36d140800000000000000
+      internalID: 4744047214955093528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Runback2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 176
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3508772, y: 0.5063291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439997db67c2bd000800000000000000
+      internalID: 61691908396259636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Runback3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 54
+        height: 71
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.4225352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2fbb0ecd6a3e670800000000000000
+      internalID: 8566874383782245069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Runback4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 62
+        height: 89
+      alignment: 9
+      pivot: {x: 0.41935483, y: 0.41573033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6246e720e9ddc9f60800000000000000
+      internalID: 8042546705293272102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

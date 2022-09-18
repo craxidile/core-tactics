@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author/>
+      <authoring_tool>FBX COLLADA exporter</authoring_tool>
+      <comments/>
+    </contributor>
+    <created>2020-08-23T15:42:06Z</created>
+    <keywords/>
+    <modified>2020-08-23T15:42:06Z</modified>
+    <revision/>
+    <subject/>
+    <title/>
+    <unit meter="0.010000" name="centimeter"/>
+    <up_axis>Y_UP</up_axis>
+  </asset>
+  <library_images>
+    <image id="file1-image" name="file1">
+      <init_from>file://D:/Work/ping/game_Project/sourceimages/bg_test/25630823/ground04_col.png</init_from>
+    </image>
+  </library_images>
+  <library_materials>
+    <material id="ground_lambert" name="ground_lambert">
+      <instance_effect url="#ground_lambert-fx"/>
+    </material>
+  </library_materials>
+  <library_effects>
+    <effect id="ground_lambert-fx" name="ground_lambert">
+      <profile_COMMON>
+        <technique sid="standard">
+          <lambert>
+            <emission>
+              <color sid="emission">0.000000  0.000000 0.000000 1.000000</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0.000000  0.000000 0.000000 1.000000</color>
+            </ambient>
+            <diffuse>
+              <texture texture="file1-image" texcoord="CHANNEL0">
+                <extra>
+                  <technique profile="MAYA">
+                    <wrapU sid="wrapU0">TRUE</wrapU>
+                    <wrapV sid="wrapV0">TRUE</wrapV>
+                    <blend_mode>NONE</blend_mode>
+                  </technique>
+                </extra>
+              </texture>
+            </diffuse>
+            <transparent opaque="RGB_ZERO">
+              <color sid="transparent">0.000000  0.000000 0.000000 1.000000</color>
+            </transparent>
+            <transparency>
+              <float sid="transparency">1.000000</float>
+            </transparency>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_geometries>
+    <geometry id="ground04-lib" name="ground04Mesh">
+      <mesh>
+        <source id="ground04-POSITION">
+          <float_array id="ground04-POSITION-array" count="27">
+-7.500000 0.000000 -12.500000
+7.500000 0.000000 -12.500000
+-7.494381 -0.000000 13.751003
+7.500000 -0.000000 13.751003
+-7.505619 -2.075569 13.751002
+7.500000 -2.075569 13.751003
+-7.500000 -2.075569 -12.500000
+7.500000 -2.075569 -12.500000
+-7.494381 -2.075569 13.751003
+</float_array>
+          <technique_common>
+            <accessor source="#ground04-POSITION-array" count="9" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="ground04-Normal0">
+          <float_array id="ground04-Normal0-array" count="90">
+0.000000 1.000000 0.000000
+0.000000 1.000000 0.000000
+0.000000 1.000000 0.000000
+0.000000 1.000000 0.000000
+0.000000 1.000000 0.000000
+0.000000 1.000000 0.000000
+0.000000 -0.000000 1.000000
+0.000000 -0.000000 1.000000
+0.000000 -0.000000 1.000000
+0.000000 -0.000000 1.000000
+0.000000 -0.000000 1.000000
+0.000000 -0.000000 1.000000
+0.000000 0.000000 -1.000000
+0.000000 0.000000 -1.000000
+0.000000 0.000000 -1.000000
+0.000000 0.000000 -1.000000
+0.000000 0.000000 -1.000000
+0.000000 0.000000 -1.000000
+1.000000 0.000000 0.000000
+1.000000 0.000000 0.000000
+1.000000 0.000000 0.000000
+1.000000 0.000000 0.000000
+1.000000 0.000000 0.000000
+1.000000 0.000000 0.000000
+-1.000000 0.000000 0.000214
+-1.000000 0.000000 0.000214
+-1.000000 0.000000 0.000214
+-1.000000 0.000000 0.000214
+-1.000000 0.000000 0.000214
+-1.000000 0.000000 0.000214
+</float_array>
+          <technique_common>
+            <accessor source="#ground04-Normal0-array" count="30" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="ground04-UV0">
+          <float_array id="ground04-UV0-array" count="40">
+0.577197 0.974465
+0.031347 0.974465
+0.031347 0.019191
+0.577197 0.019191
+0.835909 0.582571
+0.760379 0.582980
+0.760379 0.053546
+0.835909 0.053546
+0.669002 0.016221
+0.669002 0.980483
+0.592761 0.980483
+0.592761 0.016221
+0.751917 0.016221
+0.751917 0.980483
+0.675677 0.980483
+0.675677 0.016221
+0.843301 0.583586
+0.843301 0.032600
+0.919541 0.032600
+0.919541 0.583586
+</float_array>
+          <technique_common>
+            <accessor source="#ground04-UV0-array" count="20" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="ground04-VERTEX">
+          <input semantic="POSITION" source="#ground04-POSITION"/>
+        </vertices>
+        <triangles count="10" material="ground_lambert">
+          <input semantic="VERTEX" offset="0" source="#ground04-VERTEX"/>
+          <input semantic="NORMAL" offset="1" source="#ground04-Normal0"/>
+          <input semantic="TEXCOORD" offset="2" set="0" source="#ground04-UV0"/>
+          <p> 2 0 2 1 1 0 0 2 1 1 3 0 2 4 2 3 5 3 4 6 5 5 7 6 2 8 4 3 9 7 2 10 4 5 11 6 7 12 18 6 13 19 0 14 16 7 15 18 0 16 16 1 17 17 3 18 9 7 19 11 1 20 8 7 21 11 3 22 9 5 23 10 6 24 14 8 25 15 2 26 12 2 27 12 0 28 13 6 29 14</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="ground04" name="ground04">
+      <node name="ground04" id="ground04" sid="ground04">
+        <matrix sid="matrix">1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+        <instance_geometry url="#ground04-lib">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="ground_lambert" target="#ground_lambert"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+        <extra>
+          <technique profile="FCOLLADA">
+            <visibility>1.000000</visibility>
+          </technique>
+        </extra>
+      </node>
+      <extra>
+        <technique profile="MAX3D">
+          <frame_rate>24.000000</frame_rate>
+        </technique>
+        <technique profile="FCOLLADA">
+          <start_time>0.041667</start_time>
+          <end_time>8.333333</end_time>
+        </technique>
+      </extra>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#ground04"/>
+  </scene>
+</COLLADA>

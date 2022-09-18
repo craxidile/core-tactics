@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Taiga/UI/GameplayPanel.cs.meta
+guid: c6d1807e5d12abb479332fd2b99bf2a5
+========
+guid: 913f853e7ad32a44da622f4bd1563021
+>>>>>>>> feature/multiple-ultimate:Assets/Taiga/Core.Unity/CharacterAnimation/MonoBehaviours/AttackAnimators/M09/Bk00/BaseM09UltimateAttack00.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

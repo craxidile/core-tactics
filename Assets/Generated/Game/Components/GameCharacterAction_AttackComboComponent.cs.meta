@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Generated/Game/Components/GameCharacterAction_AttackComboComponent.cs.meta
+guid: 81a6df71f32477d458fa9f2b6dfd49b2
+========
+guid: 24ec22638690f3c4bafc8a4bffcc328c
+>>>>>>>> feature/multiple-ultimate:Assets/Taiga/Core.Unity/CharacterAnimation/MonoBehaviours/AttackAnimators/M09/Bk00/M09UltimateAttack00AttackedController.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

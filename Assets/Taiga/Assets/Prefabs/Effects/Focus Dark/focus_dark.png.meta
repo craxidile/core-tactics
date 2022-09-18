@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 491bd7e0ab10c3944917e444a95edb74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 109340732886312644
+    second: FocusLineSprite0002
+  - first:
+      213: -9136195216122884961
+    second: FocusLineSprite0003
+  - first:
+      213: 3123773160398093738
+    second: FocusLineSprite0004
+  - first:
+      213: -3526893332867718050
+    second: FocusLineSprite0005
+  - first:
+      213: 6954787757173581272
+    second: FocusLineSprite0006
+  - first:
+      213: -1617524509485745256
+    second: FocusLineSprite0007
+  - first:
+      213: -8284793886911337527
+    second: FocusLineSprite0008
+  - first:
+      213: 658316402142078040
+    second: FocusLineSprite0009
+  - first:
+      213: -1083900325790700100
+    second: FocusLineSprite0010
+  - first:
+      213: 2845943202082022970
+    second: FocusLineSprite0011
+  - first:
+      213: 935562667006088411
+    second: FocusLineSprite0012
+  - first:
+      213: 7013762503182962802
+    second: FocusLineSprite0013
+  - first:
+      213: 7864449868159477243
+    second: FocusLineSprite0014
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FocusLineSprite0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1597
+        width: 800
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c66b2731d4748100800000000000000
+      internalID: 109340732886312644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FocusLineSprite0003
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1597
+        width: 800
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c4f584bd6b53180800000000000000
+      internalID: -9136195216122884961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FocusLineSprite0004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1145
+        width: 800
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad7d60932fd95b20800000000000000
+      internalID: 3123773160398093738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FocusLineSprite0005
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1145
+        width: 800
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54e9b53335fd0fc0800000000000000
+      internalID: -3526893332867718050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FocusLineSprite0006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 693
+        width: 800
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5219afd9e548060800000000000000
+      internalID: 6954787757173581272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FocusLineSprite0007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 800
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b3d9457066d89e0800000000000000
+      internalID: -1617524509485745256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FocusLineSprite0008
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 693
+        width: 800
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb6255cadf760d80800000000000000
+      internalID: -8284793886911337527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FocusLineSprite0009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1597
+        width: 800
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854ed73a74fc22900800000000000000
+      internalID: 658316402142078040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FocusLineSprite0010
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1597
+        width: 800
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbda05d756635f0f0800000000000000
+      internalID: -1083900325790700100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FocusLineSprite0011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1145
+        width: 800
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36690b8342de7720800000000000000
+      internalID: 2845943202082022970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FocusLineSprite0012
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1145
+        width: 800
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4d300f949cbfc00800000000000000
+      internalID: 935562667006088411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FocusLineSprite0013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 693
+        width: 800
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270dc2d06d3e55160800000000000000
+      internalID: 7013762503182962802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FocusLineSprite0014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 800
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf56389cc73242d60800000000000000
+      internalID: 7864449868159477243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

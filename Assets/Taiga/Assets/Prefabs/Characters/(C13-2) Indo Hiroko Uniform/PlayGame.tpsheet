@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:2c827e61211f70ea7d78591f1a9c14eb:79c4f583a8ffd3459a6d154e16fd91f5:2b96e9c47ca59964684602c835610afe$
+#
+:format=40300
+:texture=PlayGame.png
+:size=64x64
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+PlaygameBack;1;8;34;55; 0.17647058823529413;0.5454545454545454; 0;0;0;0; 4;34;0;0;0;0;55;34;55; 2;1;2;3;0;1;3

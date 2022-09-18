@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: a70d556c74d2e904d859cc820e59b7c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1665303830608767593
+    second: PoseBack_01
+  - first:
+      213: 8098517586420203110
+    second: PoseBack_02
+  - first:
+      213: -436299104801540243
+    second: PoseBack_03
+  - first:
+      213: 609384751848771608
+    second: PoseBack_04
+  - first:
+      213: 9063970788822690748
+    second: PoseFront_01
+  - first:
+      213: 1677927566393808037
+    second: PoseFront_02
+  - first:
+      213: -3791148777082533838
+    second: PoseFront_03
+  - first:
+      213: -8872626002909852525
+    second: PoseFront_04
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PoseBack_01
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32
+        width: 36
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3611111, y: 0.43243244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795977d3df6a3e8e0800000000000000
+      internalID: -1665303830608767593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoseBack_02
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 182
+        width: 37
+        height: 73
+      alignment: 9
+      pivot: {x: 0.35135135, y: 0.43835616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e74d946d6b36070800000000000000
+      internalID: 8098517586420203110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoseBack_03
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 108
+        width: 37
+        height: 72
+      alignment: 9
+      pivot: {x: 0.35135135, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67bb7a9644f1f9f0800000000000000
+      internalID: -436299104801540243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoseBack_04
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 182
+        width: 37
+        height: 73
+      alignment: 9
+      pivot: {x: 0.35135135, y: 0.43835616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8105c710438f47800800000000000000
+      internalID: 609384751848771608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoseFront_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 23
+        width: 35
+        height: 77
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb2b42d861b9cd70800000000000000
+      internalID: 9063970788822690748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoseFront_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 102
+        width: 36
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a41db94b32394710800000000000000
+      internalID: 1677927566393808037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoseFront_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 180
+        width: 37
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238c65b0642236bc0800000000000000
+      internalID: -3791148777082533838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoseFront_04
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 104
+        width: 36
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c0aa7d8a91ed480800000000000000
+      internalID: -8872626002909852525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

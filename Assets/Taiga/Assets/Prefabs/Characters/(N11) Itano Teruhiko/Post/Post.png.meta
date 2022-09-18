@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 1ea07e0d771a9c64a927bc61b99b9c50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: postBack1
+  - first:
+      213: 21300002
+    second: postBack2
+  - first:
+      213: 21300004
+    second: postBack3
+  - first:
+      213: 21300006
+    second: postBack4
+  - first:
+      213: 21300008
+    second: postBack5
+  - first:
+      213: 21300010
+    second: postBack6
+  - first:
+      213: 21300012
+    second: postBack7
+  - first:
+      213: 21300014
+    second: postBack8
+  - first:
+      213: 21300016
+    second: PostFront1
+  - first:
+      213: 21300018
+    second: PostFront2
+  - first:
+      213: 21300020
+    second: PostFront3
+  - first:
+      213: 21300022
+    second: PostFront4
+  - first:
+      213: 21300024
+    second: PostFront5
+  - first:
+      213: 21300026
+    second: PostFront6
+  - first:
+      213: 21300028
+    second: PostFront7
+  - first:
+      213: 21300030
+    second: PostFront8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo Switch
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: postBack1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 31
+        width: 32
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.44594595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c437534ba7535ec0800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postBack2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 104
+        width: 33
+        height: 73
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.4520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28f56e36c02c81f0800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postBack3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 43
+        height: 92
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.4347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac2257b439a91e80800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postBack4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 43
+        height: 94
+      alignment: 9
+      pivot: {x: 0.4651163, y: 0.42553192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669bb3218ddd84050800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postBack5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 178
+        width: 37
+        height: 77
+      alignment: 9
+      pivot: {x: 0.3783784, y: 0.44155845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58a45f6927d5b4a0800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postBack6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 105
+        width: 33
+        height: 73
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0.4520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabc081905159be50800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postBack7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 107
+        width: 34
+        height: 73
+      alignment: 9
+      pivot: {x: 0.3529412, y: 0.4520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc187598fb4f3f670800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postBack8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 29
+        width: 31
+        height: 73
+      alignment: 9
+      pivot: {x: 0.38709676, y: 0.4520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5ea8d2e9261bd90800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostFront1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 90
+        width: 39
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed2c9a7d9af60e50800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostFront2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 173
+        width: 47
+        height: 82
+      alignment: 9
+      pivot: {x: 0.59574467, y: 0.41463414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cc282feee10b630800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostFront3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 182
+        width: 36
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.4520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f7443203cd553c0800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostFront4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 3
+        width: 44
+        height: 82
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.41463414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a95e923a7340b00800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostFront5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 179
+        width: 35
+        height: 76
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91338a72e455f4d40800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostFront6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 180
+        width: 35
+        height: 75
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5e31e1903718850800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostFront7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 87
+        width: 46
+        height: 84
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.44047618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78a666955b536b30800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostFront8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 4
+        width: 41
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83946ddc83ca21f0800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

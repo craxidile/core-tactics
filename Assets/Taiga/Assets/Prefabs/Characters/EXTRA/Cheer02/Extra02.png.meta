@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 9b5423e3a48152b4abc0ee7ccbc6cabb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7714459165049380484
+    second: Extra02 Back1
+  - first:
+      213: -5216529538180284286
+    second: Extra02 Back2
+  - first:
+      213: 7725532064885789415
+    second: Extra02 Back3
+  - first:
+      213: -7436283058043412784
+    second: Extra02 Back4
+  - first:
+      213: -6241627922296800861
+    second: Extra02 Back5
+  - first:
+      213: 3813092523007072185
+    second: Extra02 Back6
+  - first:
+      213: 8797920066894875166
+    second: Extra02 Back7
+  - first:
+      213: 372105496890709232
+    second: Extra02 Back8
+  - first:
+      213: 2188712730345659245
+    second: Extra02 Front1
+  - first:
+      213: -7969900627183374964
+    second: Extra02 Front2
+  - first:
+      213: -3759049238279075078
+    second: Extra02 Front3
+  - first:
+      213: 9050683881654239578
+    second: Extra02 Front4
+  - first:
+      213: 3290179367960774366
+    second: Extra02 Front5
+  - first:
+      213: -917317161078121087
+    second: Extra02 Front6
+  - first:
+      213: -4170850839313816338
+    second: Extra02 Front7
+  - first:
+      213: 778103422411669614
+    second: Extra02 Front8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Nintendo Switch
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Extra02 Back1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 169
+        width: 46
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5869565, y: 0.45348838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71a9f8234cb0f490800000000000000
+      internalID: -7714459165049380484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra02 Back2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 169
+        width: 46
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5869565, y: 0.45348838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2808e6cf50a2b97b0800000000000000
+      internalID: -5216529538180284286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra02 Back3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 46
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5869565, y: 0.44827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2586c3b7a963b60800000000000000
+      internalID: 7725532064885789415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra02 Back4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 46
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5869565, y: 0.44827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de111435f30dc890800000000000000
+      internalID: -7436283058043412784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra02 Back5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 41
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9f65769784169a0800000000000000
+      internalID: -6241627922296800861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra02 Back6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 41
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7d8817273dae430800000000000000
+      internalID: 3813092523007072185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra02 Back7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 82
+        width: 42
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.3882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1acc8dffad781a70800000000000000
+      internalID: 8797920066894875166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra02 Back8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 82
+        width: 42
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.3882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f414295afbf92500800000000000000
+      internalID: 372105496890709232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra02 Front1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 40
+        height: 74
+      alignment: 9
+      pivot: {x: 0.225, y: 0.4189189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bd0a7c1aedf5e10800000000000000
+      internalID: 2188712730345659245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra02 Front2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 40
+        height: 74
+      alignment: 9
+      pivot: {x: 0.225, y: 0.4189189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d629d1b99356190800000000000000
+      internalID: -7969900627183374964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra02 Front3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 40
+        height: 74
+      alignment: 9
+      pivot: {x: 0.225, y: 0.4189189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa4c2352ac25dbc0800000000000000
+      internalID: -3759049238279075078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra02 Front4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 40
+        height: 74
+      alignment: 9
+      pivot: {x: 0.225, y: 0.4189189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51ca5ca90d7a9d70800000000000000
+      internalID: 9050683881654239578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra02 Front5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 37
+        height: 79
+      alignment: 9
+      pivot: {x: 0.16216215, y: 0.39240506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed60f9af3b019ad20800000000000000
+      internalID: 3290179367960774366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra02 Front6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 37
+        height: 79
+      alignment: 9
+      pivot: {x: 0.16216215, y: 0.39240506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d9193f6e80543f0800000000000000
+      internalID: -917317161078121087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra02 Front7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 177
+        width: 37
+        height: 78
+      alignment: 9
+      pivot: {x: 0.16216215, y: 0.3974359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee46f8f72492e16c0800000000000000
+      internalID: -4170850839313816338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra02 Front8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 177
+        width: 37
+        height: 78
+      alignment: 9
+      pivot: {x: 0.16216215, y: 0.3974359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e600d5ba0f06cca00800000000000000
+      internalID: 778103422411669614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

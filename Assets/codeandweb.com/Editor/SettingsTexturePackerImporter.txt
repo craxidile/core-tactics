@@ -1,0 +1,2247 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Attack/AttackBack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Skill1/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C13-2) Indo Hiroko Uniform/PlayGame.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C13-2) Indo Hiroko Uniform/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C13-2) Indo Hiroko Uniform/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C15) Takei Emiri/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C15) Takei Emiri/Stun/Stun.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C15) Takei Emiri/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(C15-2) Maid/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Run/Run.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Sit/SitScene.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Skill3/Skill3.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Run/Run.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Skill3/Skill3.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Stomachache/StomachacheBack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Post/Pose.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Run/Run.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Skill1/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Skill2/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Skill3/Skill3.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Lay/lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Skill3/Skill3.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Walk/Walk2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Lay/Laydown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Skill3/Skill3.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Skill2 ___/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Skill3/Skill3.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Walk/walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Run/Run.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Skill3/Skill3.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Run/Run.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Skill3/Skill3.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Post/Pose.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Run/Run.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Skill1/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Run/Run.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Skill3/Skill3.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Skill2/Skill2 1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Skill3/Skill3.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Skill3/Skill3.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Skill2/SKill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Skill3/Skill3.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Skill1/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M15)/Stand/StandFront.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Fly/fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Post/PostBack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Lay/LayDown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Lay/LayDown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Lay/lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Lay/Laydown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Lay/Laydown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Lay/LayDown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Lay/LayDown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Lay/LayDown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Run/RunFront.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Skill/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Lay/LayDown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Run/RunFront.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Lay/LayDown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Skill/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Lay/LayDown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Lay/LayDown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Lay/LayDown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Lay/LayDown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Lay/LayDown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Lay/LayDown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Skill/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Skill2/Skill2.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Skill/Skill.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Down/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Lay/LayDown.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Post/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Skill1/Skill1.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Attack/Attack.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Damage/Damage.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Die/Down.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Fly/Fly.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Guard/Post.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Lay/Lay.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Sit/Sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Stand/Stand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Walk/Walk.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/EXTRA/Cheer01/Extra01.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/EXTRA/Cheer02/Extra02.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/EXTRA/Cheer03/Extra03.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/EXTRA/Maid/MaidStand.tpsheet
+- Assets/Taiga/Assets/Prefabs/Characters/EXTRA/SitOnChair/sit.tpsheet
+- Assets/Taiga/Assets/Prefabs/Effects/Focus Dark/focus_dark.tpsheet
+- Assets/Taiga/Assets/Prefabs/Effects/Hit Strong/hit-strong.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Fujimoto minoru/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(00) Yoshizawa hibiki/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(55) Nakama yoshishaki/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(99) Okada norio/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C01) Tylor Scott/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C02) Shibasaki Konta/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C03) Sawajiri Ekachai/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C04) Yonekura Rikio/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C05) Fukuda Kazuki/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C06) Nakama Yoshishaki/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C07) Miyazaki Aoki/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Attack/AttackBack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C08) Goriki Amane/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Skill1/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C09) Azure Ryuji/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C11) Kuroki Motoki/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C13-2) Indo Hiroko Uniform/PlayGame.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C13-2) Indo Hiroko Uniform/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C13-2) Indo Hiroko Uniform/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C15) Takei Emiri/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C15) Takei Emiri/Stun/Stun.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C15) Takei Emiri/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(C15-2) Maid/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Run/Run.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Sit/SitScene.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Skill3/Skill3.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M01) Arashi Taiga/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Run/Run.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Skill3/Skill3.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Stomachache/StomachacheBack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M02) Ayase Haruo/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Post/Pose.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Run/Run.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Skill1/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Skill2/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Skill3/Skill3.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M03) Ueno Yuji/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Lay/lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Skill3/Skill3.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M04) Aoi Youta/Walk/Walk2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Lay/Laydown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Skill3/Skill3.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M05) Aragaki/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Skill2 ___/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Skill3/Skill3.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M06) Kitagawa Kenji ___/Walk/walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Run/Run.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Skill3/Skill3.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M07) Ishihara Satoshi/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Run/Run.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Skill3/Skill3.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M08) Horikita Makoto/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Post/Pose.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Run/Run.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Skill1/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M09) Inoue Masaru ___/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Run/Run.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Skill3/Skill3.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M10) Ichikawa Yukio/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Skill3/Skill3.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M11) Adachi Tamao/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Skill3/Skill3.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M12) Eikura Noriyuki/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Skill3/Skill3.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M13) Toda Eisaku/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Skill1/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M14) Nagasawa Masao/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M15)/Stand/StranFront.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(M16) Miyawaki Seijiro/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N01) Minegishi Mitsuru/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N02) Kashiwaki Yoshio/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N03) Watanabe Matsuo/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N04) Sashihara Ryoichi/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N05) Matsui Juro/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N06) Matsui Riku/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Fly/fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N07) Oshima Yuhei ___/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Post/PostBack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N08) Takahashi Mikio/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Lay/LayDown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N09) Shinoda Masaharu/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N10) Kohima Hikaru/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Lay/LayDown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N11) Itano Teruhiko/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N12) Kasai Tetsushi/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Lay/lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N13) Yamamoto Seiya/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N14) Okada Norio/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N15) Miyawaki Seijiro/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(N16) Nakamori Tetsuo/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Lay/Laydown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S01) Ragushi Matoshi/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S02) Aji/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S03) Tsuji Nomoru/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Lay/Laydown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S04) Todd Mario/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S05) Mishishige Souta/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S06) Kamei Eito/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S07) Tanaka Reiki/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Lay/LayDown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S08) Kusumi Kyoshiro/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Lay/LayDown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S09) Abe Naoki/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Lay/LayDown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Run/RunFront.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Skill/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S10) Ishiguro Aito/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Lay/LayDown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Run/RunFront.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S11) Fukuda Akira/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S12) Ida Kaemon/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Lay/LayDown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Skill/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S13) Nakasawa Yoshiki/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Lay/LayDown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S14) Ichii Sasuke/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Lay/LayDown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S15) Ogawa Maruhiko/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Lay/LayDown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S16) Takahashi Asaka/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Lay/LayDown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S17) Yasuda Kento/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S18) Konno Akito/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Lay/LayDown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S19) Nilgaki Ren/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Lay/LayDown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Skill/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S20) Matsuura Atsuya/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Skill2/Skill2.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S21) Fujimoto Minoru/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S22) Goto Minato/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Skill/Skill.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S23) Yoshizawa Hibiki/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Down/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Lay/LayDown.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Post/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Skill1/Skill1.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/(S24) Ishikawa Ryoka/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Attack/Attack.png
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Damage/Damage.png
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Die/Down.png
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Fly/Fly.png
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Guard/Post.png
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Lay/Lay.png
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Sit/Sit.png
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Stand/Stand.png
+- Assets/Taiga/Assets/Prefabs/Characters/_Character/Walk/Walk.png
+- Assets/Taiga/Assets/Prefabs/Characters/EXTRA/Cheer01/Extra01.png
+- Assets/Taiga/Assets/Prefabs/Characters/EXTRA/Cheer02/Extra02.png
+- Assets/Taiga/Assets/Prefabs/Characters/EXTRA/Cheer03/Extra03.png
+- Assets/Taiga/Assets/Prefabs/Characters/EXTRA/Maid/MaidStand.png
+- Assets/Taiga/Assets/Prefabs/Characters/EXTRA/SitOnChair/sit.png
+- Assets/Taiga/Assets/Prefabs/Effects/Focus Dark/focus_dark.png
+- Assets/Taiga/Assets/Prefabs/Effects/Hit Strong/hit-strong.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

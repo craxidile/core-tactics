@@ -1,0 +1,19 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:18f907428eb8fb50daa29bc43fd7ff34:310e7b74b53f9fafd5b9e18436cde474:07217b1cd750ca5da492bab1d1dd1a7a$
+#
+:format=40300
+:texture=Run.png
+:size=128x256
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+RunBack1;1;76;62;92; 0.5483870967741935;0.4565217391304348; 0;0;0;0; 5;53;74;62;39;23;0;0;23;35;92; 3;0;1;3;1;2;3;0;3;4
+RunBack2;65;86;46;79; 0.3695652173913043;0.36708860759493667; 0;0;0;0; 5;46;43;39;0;0;2;0;34;26;79; 3;0;1;3;1;2;3;0;3;4
+RunBack3;68;167;56;88; 0.3392857142857143;0.44318181818181823; 0;0;0;0; 4;56;41;15;0;0;40;28;88; 2;0;2;3;0;1;2
+RunBack4;1;170;65;85; 0.5384615384615384;0.43529411764705883; 0;0;0;0; 4;65;50;32;0;0;32;45;85; 2;0;2;3;0;1;2

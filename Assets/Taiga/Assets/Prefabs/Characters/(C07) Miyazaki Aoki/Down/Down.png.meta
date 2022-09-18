@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 01e7d472c3f596948a2f1bce731898fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3944243216390098145
+    second: DownBack1
+  - first:
+      213: 7885291971076265476
+    second: DownBack2
+  - first:
+      213: -4039324559523186580
+    second: DownBack3
+  - first:
+      213: 4909306550952665599
+    second: DownBack4
+  - first:
+      213: -1321455028051101925
+    second: DownBack5
+  - first:
+      213: 862130751965393850
+    second: DownBack6
+  - first:
+      213: -5218694241570399624
+    second: DownFront1
+  - first:
+      213: -9054487215862386486
+    second: DownFront2
+  - first:
+      213: 1223336582197868382
+    second: DownFront3
+  - first:
+      213: 2405140408865396335
+    second: DownFront4
+  - first:
+      213: -2118634310354260447
+    second: DownFront5
+  - first:
+      213: -5192877469934283157
+    second: DownFront6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Nintendo Switch
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DownBack1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 333
+        width: 69
+        height: 104
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0.42307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13f25331bb3349c0800000000000000
+      internalID: -3944243216390098145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownBack2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 317
+        width: 69
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4057971, y: 0.42307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4069d36054f2e6d60800000000000000
+      internalID: 7885291971076265476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownBack3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 68
+        height: 101
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.43564355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68fb11e6bf61f7c0800000000000000
+      internalID: -4039324559523186580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownBack4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 134
+        width: 65
+        height: 90
+      alignment: 9
+      pivot: {x: 0.24615385, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff128072c4c512440800000000000000
+      internalID: 4909306550952665599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownBack5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 419
+        width: 70
+        height: 92
+      alignment: 9
+      pivot: {x: 0.21428572, y: 0.5543478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b173c5247af39ade0800000000000000
+      internalID: -1321455028051101925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownBack6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 226
+        width: 68
+        height: 105
+      alignment: 9
+      pivot: {x: 0.20588236, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab376d4e957e6fb00800000000000000
+      internalID: 862130751965393850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownFront1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 128
+        width: 66
+        height: 99
+      alignment: 9
+      pivot: {x: 0.56060606, y: 0.4040404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ad1d3bc397397b0800000000000000
+      internalID: -5218694241570399624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownFront2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 324
+        width: 69
+        height: 93
+      alignment: 9
+      pivot: {x: 0.6376812, y: 0.39784947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0f43399dff75280800000000000000
+      internalID: -9054487215862386486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownFront3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 229
+        width: 67
+        height: 93
+      alignment: 9
+      pivot: {x: 0.6119403, y: 0.39784947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57f4a6d32a2af010800000000000000
+      internalID: 1223336582197868382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownFront4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 423
+        width: 77
+        height: 88
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.3409091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f661c597576c06120800000000000000
+      internalID: 2405140408865396335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownFront5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 439
+        width: 77
+        height: 72
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.4027778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e216ad1591992e0800000000000000
+      internalID: -2118634310354260447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownFront6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 423
+        width: 77
+        height: 88
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.32954547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66107244713fe7b0800000000000000
+      internalID: -5192877469934283157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:3f0c50a445a4925083182e74ee702515:6b56af51fdef559866b169bdc4fffd4b:e1268b2aa9c26f985bfeecbd8d15b0d2$
+#
+:format=40300
+:texture=Stand.png
+:size=256x256
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+StandBack1;104;86;32;83; 0.5;0.3975903614457831; 0;0;0;0; 4;32;0;0;0;0;83;32;83; 2;1;2;3;0;1;3
+StandBack2;70;85;32;84; 0.5;0.3928571428571429; 0;0;0;0; 4;32;0;0;0;0;84;32;84; 2;1;2;3;0;1;3
+StandBack3;34;84;34;84; 0.5;0.3928571428571429; 0;0;0;0; 4;34;0;0;0;0;84;34;84; 2;1;2;3;0;1;3
+StandBack4;67;171;34;84; 0.5;0.3928571428571429; 0;0;0;0; 4;34;0;0;0;0;84;34;84; 2;1;2;3;0;1;3
+StandFront1;103;171;31;84; 0.45161290322580644;0.40476190476190477; 0;0;0;0; 4;31;0;0;0;0;84;31;84; 2;1;2;3;0;1;3
+StandFront2;1;170;31;85; 0.45161290322580644;0.4; 0;0;0;0; 4;31;0;0;0;0;85;31;85; 2;1;2;3;0;1;3
+StandFront3;1;83;31;85; 0.45161290322580644;0.4; 0;0;0;0; 4;31;0;0;0;0;85;31;85; 2;1;2;3;0;1;3
+StandFront4;34;170;31;85; 0.45161290322580644;0.4; 0;0;0;0; 4;31;0;0;0;0;85;31;85; 2;1;2;3;0;1;3

@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:a4ccdd643bf2024f273653f9c2cae0c7:c21b1de629809604e416d524fd51ef49:f6887ca7b59322fe1f92f093c7d3da16$
+#
+:format=40300
+:texture=StomachacheBack.png
+:size=128x128
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+stomach ache1;1;41;32;86; 0.46875;0.43023255813953487; 0;0;0;0; 5;32;62;32;0;0;11;3;68;20;86; 3;2;0;1;2;3;0;0;3;4
+stomach ache2;35;50;36;77; 0.4444444444444444;0.4415584415584416; 0;0;0;0; 4;31;72;36;0;0;2;5;77; 2;0;1;2;0;2;3

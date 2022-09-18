@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07d8c7d10ae84a858ea171ff9652e10a, type: 3}
+  m_Name: TaigaGameUltimateAttackPreset
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  animations:
+  - name: m09_001
+    animation: {fileID: 7400000, guid: b82d9c3aa8c061143aae3b86bc0e82f9, type: 2}
+  - name: m05_001
+    animation: {fileID: 7400000, guid: b8771a6b4c8427e46897df5d30a0ab45, type: 2}
+  - name: m05_002
+    animation: {fileID: 7400000, guid: 15678744e1a05e443b86e2effd003100, type: 2}
+  - name: m05_003
+    animation: {fileID: 7400000, guid: f58b8cb13e75b36468e4f9499ffb67c1, type: 2}
+  - name: m01_001
+    animation: {fileID: 7400000, guid: 2e2e13712434a1e41b6c2bde59e6af28, type: 2}
+  - name: s17_001
+    animation: {fileID: 7400000, guid: d411f3a0660923049ae1fbffebbc2d1f, type: 2}
+  - name: m05_000
+    animation: {fileID: 7400000, guid: 0db78212c9a6445438f669d9579e1525, type: 2}
+  - name: S22_000
+    animation: {fileID: 7400000, guid: 064ea7ad870a47e408b183b73f4cdef5, type: 2}
+  - name: S07_000
+    animation: {fileID: 7400000, guid: 2c8b08403bef2f940b8ef220c2c6b632, type: 2}
+  - name: m09_000
+    animation: {fileID: 7400000, guid: a242f6296c42a4d4088024dcbdd94710, type: 2}
+  - name: m03_000
+    animation: {fileID: 7400000, guid: 507d5ac24e6c57c44a12b27aed0a59ae, type: 2}

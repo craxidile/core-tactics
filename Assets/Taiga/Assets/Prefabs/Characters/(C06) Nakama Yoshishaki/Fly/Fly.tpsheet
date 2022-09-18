@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:247e0cc678d9289317d6868196cdc907:6cd9dbf3417a8f366e6cfe714fae3553:d0fd8c70da04ccdb102fb061e6e9168c$
+#
+:format=40300
+:texture=Fly.png
+:size=128x128
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+FlyBack;41;50;39;77; 0.46153846153846156;0.4285714285714286; 0;0;0;0; 4;39;0;0;0;0;77;39;77; 2;1;2;3;0;1;3
+FlyFront1;1;49;38;78; 0.5526315789473685;0.42307692307692313; 0;0;0;0; 4;38;0;0;0;0;78;38;78; 2;1;2;3;0;1;3

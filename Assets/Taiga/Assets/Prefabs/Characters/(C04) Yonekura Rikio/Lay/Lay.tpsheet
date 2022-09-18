@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:9c4506969183cb667417fd59f1ce66a5:2784b28cbc9443c789e573e2379a1bc3:9c3d689b30040996e01832bcdeb1353e$
+#
+:format=40300
+:texture=Lay.png
+:size=128x256
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+LayBack;1;119;75;63; 0.49333333333333335;0.7936507936507937; 0;0;0;0; 5;75;41;45;7;0;0;4;31;53;63; 3;1;3;4;1;2;3;0;1;4
+LayFront;1;184;83;71; 0.42168674698795183;0.8169014084507042; 0;0;0;0; 5;69;26;14;0;0;35;29;62;83;71; 3;0;3;4;1;2;3;0;1;3

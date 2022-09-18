@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: e18a28c1ce1ad45409b410e1f4dc20a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 173734313454294638
+    second: PostBack_01
+  - first:
+      213: -3160657138249796583
+    second: PostBack_02
+  - first:
+      213: 2468611006108431415
+    second: PostBack_03
+  - first:
+      213: -4993022198904804855
+    second: PostBack_04
+  - first:
+      213: 7441611379535421572
+    second: PostFront_01
+  - first:
+      213: -5811992589721416469
+    second: PostFront_02
+  - first:
+      213: -8250352267485837756
+    second: PostFront_03
+  - first:
+      213: -6127653398445183542
+    second: PostFront_04
+  - first:
+      213: 2033996191168769471
+    second: Pose Front1
+  - first:
+      213: -3173136942866501020
+    second: Pose Front2
+  - first:
+      213: -7429958461611252638
+    second: Pose Front3
+  - first:
+      213: 45503324531961170
+    second: Pose Front4
+  - first:
+      213: -2749070922652722674
+    second: PoseBack1
+  - first:
+      213: 2818879713029771286
+    second: PoseBack2
+  - first:
+      213: -8682545411731760223
+    second: PoseBack3
+  - first:
+      213: 2313970173907083659
+    second: PoseBack4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PostBack_01
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 81
+        width: 46
+        height: 85
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e665db6007a396200800000000000000
+      internalID: 173734313454294638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostBack_02
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 175
+        width: 43
+        height: 80
+      alignment: 9
+      pivot: {x: 0.44186047, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91471d124171324d0800000000000000
+      internalID: -3160657138249796583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostBack_03
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 88
+        width: 43
+        height: 82
+      alignment: 9
+      pivot: {x: 0.41860464, y: 0.42682928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73476bb71a4424220800000000000000
+      internalID: 2468611006108431415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostBack_04
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 172
+        width: 42
+        height: 83
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.42168674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aa3a6a3c835bab0800000000000000
+      internalID: -4993022198904804855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostFront_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 43
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480a6b15f1ae54760800000000000000
+      internalID: 7441611379535421572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostFront_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 168
+        width: 60
+        height: 87
+      alignment: 9
+      pivot: {x: 0.36666667, y: 0.42528737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becc37c6887a75fa0800000000000000
+      internalID: -5811992589721416469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostFront_03
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 5
+        width: 42
+        height: 74
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4460ba0335cd08d80800000000000000
+      internalID: -8250352267485837756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PostFront_04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 52
+        height: 85
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acda5f623b336faa0800000000000000
+      internalID: -6127653398445183542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

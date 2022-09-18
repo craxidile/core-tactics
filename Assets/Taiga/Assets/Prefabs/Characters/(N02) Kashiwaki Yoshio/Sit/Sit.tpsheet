@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:ad4bf304579bef7687fa024b2047a9ac:845b3c5467e9a07b822d1c4381dc7942:174cd21838368d84d15d4ea25fe43c66$
+#
+:format=40300
+:texture=Sit.png
+:size=128x128
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+SitBack2;1;56;49;71; 0.6122448979591837;0.46478873239436624; 0;0;0;0; 5;49;52;49;1;15;0;0;40;30;71; 3;2;0;1;2;3;0;0;3;4
+SitFront2;52;58;52;69; 0.38461538461538464;0.4492753623188406; 0;0;0;0; 5;52;32;42;0;0;1;13;63;32;69; 3;2;0;1;2;3;0;0;3;4

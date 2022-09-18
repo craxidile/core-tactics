@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 8afec782b058d8040bf66d838c240ce2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8475565605920750650
+    second: Hit03-01
+  - first:
+      213: 8446832743740566005
+    second: Hit03-02
+  - first:
+      213: -7623321428389269834
+    second: Hit03-03
+  - first:
+      213: -6792428763554231949
+    second: Hit03-04
+  - first:
+      213: 7316038409153928721
+    second: Hit03-05
+  - first:
+      213: 7580850916502781813
+    second: Hit03-06
+  - first:
+      213: -9050562217939093602
+    second: Hit03-07
+  - first:
+      213: -6678808721701741109
+    second: Hit03-08
+  - first:
+      213: 2319848882430680971
+    second: Hit03-09
+  - first:
+      213: 1451765666599792514
+    second: Hit03-10
+  - first:
+      213: -7681665475281376062
+    second: Hit03-11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit03-01
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 114
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c34394acfdb06a80800000000000000
+      internalID: -8475565605920750650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit03-02
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 85
+        width: 58
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.54385966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f96bcf80ad293570800000000000000
+      internalID: 8446832743740566005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit03-03
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 62
+        width: 70
+        height: 64
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beeb3c0d85843690800000000000000
+      internalID: -7623321428389269834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit03-04
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 128
+        width: 73
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5068493, y: 0.53246754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379443207027cb1a0800000000000000
+      internalID: -6792428763554231949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit03-05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.5064935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11edbbccb2ac78560800000000000000
+      internalID: 7316038409153928721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit03-06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 77
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5064935, y: 0.5063291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fb7555eb7943960800000000000000
+      internalID: 7580850916502781813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit03-07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 77
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5064935, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e973b2e5d91f56280800000000000000
+      internalID: -9050562217939093602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit03-08
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 202
+        width: 85
+        height: 53
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcddf2c7ada1053a0800000000000000
+      internalID: -6678808721701741109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit03-09
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 144
+        width: 73
+        height: 56
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f1ed97442c13020800000000000000
+      internalID: 2319848882430680971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit03-10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 207
+        width: 82
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fe9c69e25b52410800000000000000
+      internalID: 1451765666599792514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit03-11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 1.7857143, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cca87e03fd356590800000000000000
+      internalID: -7681665475281376062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

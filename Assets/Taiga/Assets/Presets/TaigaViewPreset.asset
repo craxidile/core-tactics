@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d92092e1d23da4d97a427d9c59072eed, type: 3}
+  m_Name: TaigaViewPreset
+  m_EditorClassIdentifier: 
+  damageFlySpeed: 6
+  walkDurationSpeed: 3
+  walkHighlightColor: {r: 0.22677112, g: 0.6630258, b: 0.9811321, a: 0.5254902}
+  cursorHighlightColor: {r: 0.4666667, g: 0.7176471, b: 0.37647063, a: 0.5254902}
+  attackHighlightColor: {r: 0.98039216, g: 0.54922044, b: 0.22745097, a: 0.5254902}
+  preAttackHighlightColor: {r: 0.98039216, g: 0.22745097, b: 0.9065181, a: 0.5254902}
+  blockageHighlightColor: {r: 0.1548717, g: 1, b: 0, a: 0}
+  focusOpacity: 0.9

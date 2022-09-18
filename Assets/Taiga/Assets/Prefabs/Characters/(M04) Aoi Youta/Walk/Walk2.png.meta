@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 1526a224b06d53f4490aa4b3f779fcfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8444579212005003246
+    second: walkBack no Fan1
+  - first:
+      213: -5552246044570371634
+    second: walkBack no Fan2
+  - first:
+      213: 3528553621437541785
+    second: walkBack no Fan3
+  - first:
+      213: 5058526248862706489
+    second: walkBack no Fan4
+  - first:
+      213: 776717849161220482
+    second: WalkFront no Fan1
+  - first:
+      213: -121676699967358766
+    second: WalkFront no Fan2
+  - first:
+      213: 6812373194903600024
+    second: WalkFront no Fan3
+  - first:
+      213: -3042909484964043989
+    second: WalkFront no Fan4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Nintendo Switch
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walkBack no Fan1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 89
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4722222, y: 0.38271606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefc4315d0c213570800000000000000
+      internalID: 8444579212005003246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walkBack no Fan2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 65
+        width: 37
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.3548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9b0d7b3a572f2b0800000000000000
+      internalID: -5552246044570371634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walkBack no Fan3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 160
+        width: 35
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99de3b8d2d0f7f030800000000000000
+      internalID: 3528553621437541785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walkBack no Fan4
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 174
+        width: 35
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.37037036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b637672de733640800000000000000
+      internalID: 5058526248862706489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkFront no Fan1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 37
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.43269232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281c5f1c4c477ca00800000000000000
+      internalID: 776717849161220482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkFront no Fan2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 52
+        width: 39
+        height: 97
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.39175257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8f001afa7bf4ef0800000000000000
+      internalID: -121676699967358766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkFront no Fan3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 7
+        width: 35
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.3375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b3f97c3596a8e50800000000000000
+      internalID: 6812373194903600024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkFront no Fan4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 172
+        width: 38
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4473684, y: 0.37349397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b232d0902f965c5d0800000000000000
+      internalID: -3042909484964043989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

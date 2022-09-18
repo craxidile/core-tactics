@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Taiga/Core/CharacterAction.Attack/CreateCombo_WhenActionExecuted.cs.meta
+guid: 72126278b8a133e4a8f27ceed3cf0d5c
+========
+guid: 8732de445fa0ef54a81fe8989435a954
+>>>>>>>> feature/multiple-ultimate:Assets/Taiga/Core.Unity/CharacterAnimation/MonoBehaviours/AttackAnimators/M09/Bk00/M09UltimateAttack00AttackingController.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
